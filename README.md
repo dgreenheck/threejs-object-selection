@@ -7,3 +7,5 @@ This demo shows you how to select objects in Three.js using raycasting.
 https://youtu.be/QATefHrO4kg
 
 ## Live Demo
+
+https://dgreenheck.github.io/threejs-object-selection/
